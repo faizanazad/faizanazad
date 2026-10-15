@@ -4,13 +4,16 @@ Aspiring AI/ML Developer
 
 I'm learning and building practical projects in Artificial Intelligence and Machine Learning. My goal is to develop useful AI applications and improve my skills through real-world projects.
 
-🛠️ Skills & Technologies
+🛠️ Technologies & Tools Used
 
-- Programming: Python, SQL
-- Machine Learning: Data Cleaning, Model Training, Model Evaluation
-- Deep Learning: CNN, TensorFlow, Keras
-- Web Development: FastAPI
-- Tools: Git, GitHub, Jupyter Notebook
+- Programming Language: Python
+- Deep Learning: CNN (Convolutional Neural Network)
+- Frameworks: TensorFlow, Keras
+- Backend: FastAPI
+- Frontend: HTML, CSS
+- Development Tool: Visual Studio Code (VS Code)
+- Deployment: Render
+- Version Control: Git, GitHub
 
 🚀 Featured Project
 
